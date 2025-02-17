@@ -2,4 +2,4 @@
 This repo consists of all the code for recordings found at https://youtu.be/Vvf5fxE2rcE?feature=shared 01python2024 playlist.
 Lecturer - https://linkedin.com/in/achieversadiq
 
-Please note that some of the material is copyrighted. Please take permission accordingly for commercial uses. But for personal learnings, you are free to use the content. 
+Kindly do consider donating whatever you can (Rs 5 or Rs 10 or Rs 20 ) to this upi sadiqp21@fifederal to support my work
